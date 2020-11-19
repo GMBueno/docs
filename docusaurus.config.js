@@ -15,7 +15,7 @@ module.exports = {
   projectName: 'docs',
 
   baseUrl: '/docs/',
-  url: 'https://leaf-agriculture.github.io',
+  url: 'https://gmbueno.github.io',
   favicon: leaf_favicon_light,
 
   plugins: [
