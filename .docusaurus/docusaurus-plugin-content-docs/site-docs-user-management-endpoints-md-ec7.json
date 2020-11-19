@@ -1,0 +1,19 @@
+{
+  "unversionedId": "user_management_endpoints",
+  "id": "user_management_endpoints",
+  "isDocsHomePage": false,
+  "title": "Endpoints",
+  "description": "About",
+  "source": "@site/docs/user_management_endpoints.md",
+  "permalink": "/docs/docs/user_management_endpoints",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/user_management_endpoints.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/docs/user_management_overview"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/docs/field_boundaries_overview"
+  }
+}

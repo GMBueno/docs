@@ -1,0 +1,10 @@
+{
+  "unversionedId": "samplefiles",
+  "id": "samplefiles",
+  "isDocsHomePage": false,
+  "title": "Sample Operation Files",
+  "description": "<Tabs",
+  "source": "@site/docs/samplefiles.md",
+  "permalink": "/docs/docs/samplefiles",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/samplefiles.md"
+}

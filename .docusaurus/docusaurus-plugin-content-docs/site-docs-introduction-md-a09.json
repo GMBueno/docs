@@ -1,0 +1,19 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Welcome to Leaf's Documentation!",
+  "source": "@site/docs/introduction.md",
+  "permalink": "/docs/docs/introduction",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/introduction.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/docs/quickstart"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/docs/authentication"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "unversionedId": "crops",
+  "id": "crops",
+  "isDocsHomePage": false,
+  "title": "Crops",
+  "description": "Here is a list of all the crops we currently support. The most common are \"corn\"",
+  "source": "@site/docs/crops.md",
+  "permalink": "/docs/docs/crops",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/crops.md"
+}

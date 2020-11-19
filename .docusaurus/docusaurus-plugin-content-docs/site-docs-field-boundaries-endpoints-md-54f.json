@@ -1,0 +1,19 @@
+{
+  "unversionedId": "field_boundaries_endpoints",
+  "id": "field_boundaries_endpoints",
+  "isDocsHomePage": false,
+  "title": "Endpoints",
+  "description": "[1]//github.com/Leaf-Agriculture/Leaf-quickstart-Postman-collection",
+  "source": "@site/docs/field_boundaries_endpoints.md",
+  "permalink": "/docs/docs/field_boundaries_endpoints",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/field_boundaries_endpoints.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/docs/field_boundaries_overview"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/docs/operations_overview"
+  }
+}

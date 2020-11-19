@@ -1,0 +1,19 @@
+{
+  "unversionedId": "satellite_endpoints",
+  "id": "satellite_endpoints",
+  "isDocsHomePage": false,
+  "title": "Endpoints",
+  "description": "All HTTP methods should be prepended by this service's endpoint:",
+  "source": "@site/docs/satellite_endpoints.md",
+  "permalink": "/docs/docs/satellite_endpoints",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/satellite_endpoints.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/docs/satellite_overview"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/docs/converters_overview"
+  }
+}

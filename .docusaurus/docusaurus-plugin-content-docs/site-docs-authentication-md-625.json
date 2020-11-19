@@ -1,0 +1,19 @@
+{
+  "unversionedId": "authentication",
+  "id": "authentication",
+  "isDocsHomePage": false,
+  "title": "Authentication",
+  "description": "To access our API, you just have to register using this link. After",
+  "source": "@site/docs/authentication.md",
+  "permalink": "/docs/docs/authentication",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/authentication.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/docs/introduction"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/docs/user_management_overview"
+  }
+}

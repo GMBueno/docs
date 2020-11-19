@@ -1,0 +1,19 @@
+{
+  "unversionedId": "quickstart",
+  "id": "quickstart",
+  "isDocsHomePage": false,
+  "title": "Quickstart",
+  "description": "Leaf Quickstart",
+  "source": "@site/docs/quickstart.md",
+  "permalink": "/docs/docs/quickstart",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/quickstart.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/docs/"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/docs/introduction"
+  }
+}

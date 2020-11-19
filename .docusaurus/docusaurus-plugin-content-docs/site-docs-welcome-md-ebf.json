@@ -1,0 +1,15 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "isDocsHomePage": true,
+  "title": "Welcome",
+  "description": "Welcome to Leaf's Documentation!",
+  "source": "@site/docs/welcome.md",
+  "permalink": "/docs/docs/",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/welcome.md",
+  "sidebar": "docs",
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/docs/quickstart"
+  }
+}

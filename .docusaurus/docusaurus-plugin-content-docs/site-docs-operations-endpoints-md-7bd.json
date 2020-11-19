@@ -1,0 +1,19 @@
+{
+  "unversionedId": "operations_endpoints",
+  "id": "operations_endpoints",
+  "isDocsHomePage": false,
+  "title": "Endpoints",
+  "description": "[1]//github.com/Leaf-Agriculture/Leaf-quickstart-Postman-collection",
+  "source": "@site/docs/operations_endpoints.md",
+  "permalink": "/docs/docs/operations_endpoints",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/operations_endpoints.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/docs/operations_overview"
+  },
+  "next": {
+    "title": "Sample responses",
+    "permalink": "/docs/docs/operations_sample_output"
+  }
+}

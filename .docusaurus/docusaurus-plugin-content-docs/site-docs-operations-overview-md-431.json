@@ -1,0 +1,19 @@
+{
+  "unversionedId": "operations_overview",
+  "id": "operations_overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "Leaf's Operation Data API returns clean, aggregated, and standardized data",
+  "source": "@site/docs/operations_overview.md",
+  "permalink": "/docs/docs/operations_overview",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/operations_overview.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Endpoints",
+    "permalink": "/docs/docs/field_boundaries_endpoints"
+  },
+  "next": {
+    "title": "Endpoints",
+    "permalink": "/docs/docs/operations_endpoints"
+  }
+}

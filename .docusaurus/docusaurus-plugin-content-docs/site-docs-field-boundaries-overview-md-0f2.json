@@ -1,0 +1,19 @@
+{
+  "unversionedId": "field_boundaries_overview",
+  "id": "field_boundaries_overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "With Leaf, you can import, export, create, and manage Field Boundaries from all",
+  "source": "@site/docs/field_boundaries_overview.md",
+  "permalink": "/docs/docs/field_boundaries_overview",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/field_boundaries_overview.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Endpoints",
+    "permalink": "/docs/docs/user_management_endpoints"
+  },
+  "next": {
+    "title": "Endpoints",
+    "permalink": "/docs/docs/field_boundaries_endpoints"
+  }
+}

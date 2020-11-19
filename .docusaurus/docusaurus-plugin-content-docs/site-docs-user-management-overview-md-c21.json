@@ -1,0 +1,19 @@
+{
+  "unversionedId": "user_management_overview",
+  "id": "user_management_overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "For Leaf to be able to access, standardize, process and return files, you just",
+  "source": "@site/docs/user_management_overview.md",
+  "permalink": "/docs/docs/user_management_overview",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/user_management_overview.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/docs/authentication"
+  },
+  "next": {
+    "title": "Endpoints",
+    "permalink": "/docs/docs/user_management_endpoints"
+  }
+}

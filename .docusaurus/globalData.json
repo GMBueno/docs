@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs/docs",
+      "latestVersionName": null,
+      "versions": [
+        {
+          "name": null,
+          "path": "/docs/docs",
+          "mainDocId": "welcome",
+          "docs": [
+            {
+              "id": "authentication",
+              "path": "/docs/docs/authentication"
+            },
+            {
+              "id": "converters_endpoints",
+              "path": "/docs/docs/converters_endpoints"
+            },
+            {
+              "id": "converters_overview",
+              "path": "/docs/docs/converters_overview"
+            },
+            {
+              "id": "crops",
+              "path": "/docs/docs/crops"
+            },
+            {
+              "id": "field_boundaries_endpoints",
+              "path": "/docs/docs/field_boundaries_endpoints"
+            },
+            {
+              "id": "field_boundaries_overview",
+              "path": "/docs/docs/field_boundaries_overview"
+            },
+            {
+              "id": "glossary(unused)",
+              "path": "/docs/docs/glossary(unused)"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/docs/introduction"
+            },
+            {
+              "id": "operations_endpoints",
+              "path": "/docs/docs/operations_endpoints"
+            },
+            {
+              "id": "operations_overview",
+              "path": "/docs/docs/operations_overview"
+            },
+            {
+              "id": "operations_postman",
+              "path": "/docs/docs/operations_postman"
+            },
+            {
+              "id": "operations_sample_output",
+              "path": "/docs/docs/operations_sample_output"
+            },
+            {
+              "id": "quickstart",
+              "path": "/docs/docs/quickstart"
+            },
+            {
+              "id": "samplefiles",
+              "path": "/docs/docs/samplefiles"
+            },
+            {
+              "id": "satellite_endpoints",
+              "path": "/docs/docs/satellite_endpoints"
+            },
+            {
+              "id": "satellite_overview",
+              "path": "/docs/docs/satellite_overview"
+            },
+            {
+              "id": "user_management_endpoints",
+              "path": "/docs/docs/user_management_endpoints"
+            },
+            {
+              "id": "user_management_overview",
+              "path": "/docs/docs/user_management_overview"
+            },
+            {
+              "id": "welcome",
+              "path": "/docs/docs/"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

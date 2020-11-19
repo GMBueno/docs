@@ -1,0 +1,15 @@
+{
+  "unversionedId": "converters_endpoints",
+  "id": "converters_endpoints",
+  "isDocsHomePage": false,
+  "title": "Endpoints",
+  "description": "About",
+  "source": "@site/docs/converters_endpoints.md",
+  "permalink": "/docs/docs/converters_endpoints",
+  "editUrl": "https://github.com/Leaf-Agriculture/docs/tree/master/docs/converters_endpoints.md",
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/docs/converters_overview"
+  }
+}
