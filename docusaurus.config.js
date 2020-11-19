@@ -11,7 +11,7 @@ module.exports = {
   title: 'Leaf',
   tagline: 'The easiest way to connect agriculture data across platforms',
 
-  organizationName: 'leaf-agriculture',
+  organizationName: 'gmbueno',
   projectName: 'docs',
 
   baseUrl: '/docs/',
